@@ -1,0 +1,7 @@
+C:\AI\AI_Project_OnePGame\AI_Game\bin\Debug\AI_Game.exe.config
+C:\AI\AI_Project_OnePGame\AI_Game\bin\Debug\AI_Game.exe
+C:\AI\AI_Project_OnePGame\AI_Game\bin\Debug\AI_Game.pdb
+C:\AI\AI_Project_OnePGame\AI_Game\obj\Debug\AI_Game.csproj.AssemblyReference.cache
+C:\AI\AI_Project_OnePGame\AI_Game\obj\Debug\AI_Game.csproj.CoreCompileInputs.cache
+C:\AI\AI_Project_OnePGame\AI_Game\obj\Debug\AI_Game.exe
+C:\AI\AI_Project_OnePGame\AI_Game\obj\Debug\AI_Game.pdb
